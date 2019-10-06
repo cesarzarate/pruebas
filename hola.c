@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+
 void main (arg v[]){
- variable=0;
+int variable=0;
+int x=0;
+int y=30;
 }
+
